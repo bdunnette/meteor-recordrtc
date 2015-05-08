@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "recordrtc": {
+      "version": "5.0.9"
+    }
+  }
+}
